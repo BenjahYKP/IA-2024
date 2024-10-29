@@ -23,7 +23,6 @@
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Good",
         "Employee Recognition": "Medium",
-        "Attrition": "Stayed"
     },
     {
         "Employee ID": 10002,
@@ -49,7 +48,6 @@
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Excellent",
         "Employee Recognition": "High",
-        "Attrition": "Stayed"
     },
     {
         "Employee ID": 10003,
@@ -75,7 +73,6 @@
         "Innovation Opportunities": "No",
         "Company Reputation": "Fair",
         "Employee Recognition": "Low",
-        "Attrition": "Left"
     },
     {
         "Employee ID": 10004,
@@ -101,7 +98,6 @@
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Good",
         "Employee Recognition": "High",
-        "Attrition": "Stayed"
     },
     {
         "Employee ID": 10005,
@@ -127,7 +123,6 @@
         "Innovation Opportunities": "No",
         "Company Reputation": "Good",
         "Employee Recognition": "Medium",
-        "Attrition": "Stayed"
     },
     {
         "Employee ID": 10006,
@@ -153,7 +148,6 @@
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Excellent",
         "Employee Recognition": "Very High",
-        "Attrition": "Stayed"
     },
     {
         "Employee ID": 10007,
@@ -179,7 +173,6 @@
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Good",
         "Employee Recognition": "High",
-        "Attrition": "Stayed"
     },
     {
         "Employee ID": 10008,
@@ -205,7 +198,6 @@
         "Innovation Opportunities": "No",
         "Company Reputation": "Fair",
         "Employee Recognition": "Low",
-        "Attrition": "Left"
     },
     {
         "Employee ID": 10009,
@@ -231,7 +223,6 @@
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Good",
         "Employee Recognition": "Medium",
-        "Attrition": "Stayed"
     },
     {
         "Employee ID": 10010,
@@ -257,6 +248,5 @@
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Excellent",
         "Employee Recognition": "Very High",
-        "Attrition": "Stayed"
     }
 ]
