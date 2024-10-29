@@ -22,7 +22,7 @@
         "Leadership Opportunities": "No",
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Good",
-        "Employee Recognition": "Medium",
+        "Employee Recognition": "Medium"
     },
     {
         "Employee ID": 10002,
@@ -47,7 +47,7 @@
         "Leadership Opportunities": "Yes",
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Excellent",
-        "Employee Recognition": "High",
+        "Employee Recognition": "High"
     },
     {
         "Employee ID": 10003,
@@ -72,7 +72,7 @@
         "Leadership Opportunities": "No",
         "Innovation Opportunities": "No",
         "Company Reputation": "Fair",
-        "Employee Recognition": "Low",
+        "Employee Recognition": "Low"
     },
     {
         "Employee ID": 10004,
@@ -97,7 +97,7 @@
         "Leadership Opportunities": "Yes",
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Good",
-        "Employee Recognition": "High",
+        "Employee Recognition": "High"
     },
     {
         "Employee ID": 10005,
@@ -122,7 +122,7 @@
         "Leadership Opportunities": "No",
         "Innovation Opportunities": "No",
         "Company Reputation": "Good",
-        "Employee Recognition": "Medium",
+        "Employee Recognition": "Medium"
     },
     {
         "Employee ID": 10006,
@@ -147,7 +147,7 @@
         "Leadership Opportunities": "Yes",
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Excellent",
-        "Employee Recognition": "Very High",
+        "Employee Recognition": "Very High"
     },
     {
         "Employee ID": 10007,
@@ -172,7 +172,7 @@
         "Leadership Opportunities": "No",
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Good",
-        "Employee Recognition": "High",
+        "Employee Recognition": "High"
     },
     {
         "Employee ID": 10008,
@@ -197,7 +197,7 @@
         "Leadership Opportunities": "No",
         "Innovation Opportunities": "No",
         "Company Reputation": "Fair",
-        "Employee Recognition": "Low",
+        "Employee Recognition": "Low"
     },
     {
         "Employee ID": 10009,
@@ -222,7 +222,7 @@
         "Leadership Opportunities": "No",
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Good",
-        "Employee Recognition": "Medium",
+        "Employee Recognition": "Medium"
     },
     {
         "Employee ID": 10010,
@@ -247,6 +247,6 @@
         "Leadership Opportunities": "Yes",
         "Innovation Opportunities": "Yes",
         "Company Reputation": "Excellent",
-        "Employee Recognition": "Very High",
+        "Employee Recognition": "Very High"
     }
 ]
